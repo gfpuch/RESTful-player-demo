@@ -22,7 +22,7 @@ var playerSchema = new Schema({
   },
 });
 
-var spellSchema = new spellSchema({
+var spellSchema = new Schema({
   name: {
     type: String
   },
